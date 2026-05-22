@@ -148,11 +148,11 @@ The retrained CNN demonstrated improved classification performance compared to t
 
 ### Accuracy Plot
 
-![Accuracy Plot](figures/accuracy_plot.png)
+![Accuracy Plot](figures/accuracy_plot_retrained.png)
 
 ### Loss Plot
 
-![Loss Plot](figures/loss_plot.png)
+![Loss Plot](figures/loss_plot_rertained.png)
 
 ### Confusion Matrix
 
