@@ -152,7 +152,7 @@ The retrained CNN demonstrated improved classification performance compared to t
 
 ### Loss Plot
 
-![Loss Plot](figures/loss_plot_rertained.png)
+![Loss Plot](figures/loss_plot_retrained.png)
 
 ### Confusion Matrix
 
